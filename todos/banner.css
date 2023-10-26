@@ -1,0 +1,34 @@
+*{
+    margin:0px;
+    padding:0px;
+
+}
+body{
+    font-family: "microsoft yahei";
+    font-size:12px;
+}
+#banner{
+    width:100%;
+    display: flex;
+    background-color: darkgrey;
+
+}
+#banner ul{
+    display: flex;
+    font-size:14px;
+    font-weight: bold;
+    line-height: 50px;
+    list-style-type: none;
+    padding-left: 80px;
+
+
+
+}
+#banner ul li{
+    margin-right:20px;
+    color:#fff;
+}
+#banner ul li a{
+    text-decoration: none;
+    color:#fff;
+}
